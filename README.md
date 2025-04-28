@@ -13,8 +13,7 @@ This is the implementation of the RSA encryption algorithm, demonstrating key ge
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kiranmayi118/RSA.git
-   cd RSA
+   git clone https://github.com/Kiranmayi118/RSA
 
 2. Run the Script:
    ```bash
