@@ -10,3 +10,13 @@ This is the implementation of the RSA encryption algorithm, demonstrating key ge
 - **ASCII Support**: Encrypts/decrypts text messages character-by-character.
 - **Input Validation**: Ensures the modulus `n` is large enough to handle ASCII values (≥128).
 
+## Usage
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/rsa-implementation.git
+   cd rsa-implementation
+
+2. Run the Script:
+    python rsa.py
+
+3. 
