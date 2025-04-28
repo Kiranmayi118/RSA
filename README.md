@@ -21,5 +21,5 @@ This is the implementation of the RSA encryption algorithm, demonstrating key ge
     python rsa.py
 
 3. Follow Prompts:
-   Enter two prime numbers (e.g., 11 and 13).
-   Enter a message to encrypt (e.g., Hello RSA!).
+-Enter two prime numbers (e.g., 11 and 13).
+-Enter a message to encrypt (e.g., Hello RSA!).
