@@ -17,6 +17,9 @@ This is the implementation of the RSA encryption algorithm, demonstrating key ge
    cd rsa-implementation
 
 2. Run the Script:
+   ```bash
     python rsa.py
 
-3. 
+3. Follow Prompts:
+   Enter two prime numbers (e.g., 11 and 13).
+   Enter a message to encrypt (e.g., Hello RSA!).
