@@ -13,12 +13,12 @@ This is the implementation of the RSA encryption algorithm, demonstrating key ge
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/rsa-implementation.git
-   cd rsa-implementation
+   git clone https://github.com/Kiranmayi118/RSA.git
+   cd RSA
 
 2. Run the Script:
    ```bash
-    python rsa.py
+    python RSA.py
 
 3. Follow the on-scree instructions to input prime numbers and a message for encryption/decryption.
 
