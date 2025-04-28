@@ -20,6 +20,25 @@ This is the implementation of the RSA encryption algorithm, demonstrating key ge
    ```bash
     python rsa.py
 
-3. Follow Prompts:
--Enter two prime numbers (e.g., 11 and 13).
--Enter a message to encrypt (e.g., Hello RSA!).
+3. Follow the on-scree instructions to input prime numbers and a message for encryption/decryption.
+
+## Sample Output
+   ```
+   Starting RSA example...
+   Enter a prime number (p): 11
+   Enter another prime number (q): 13
+   
+   Generating keys...
+   Public Key (e, n): (7, 143)
+   Private Key (d, n): (103, 143)
+   
+   Enter a message to encrypt: Hello RSA!
+   Original Message: Hello RSA!
+   
+   Encrypting message...
+   Encrypted Message: [114, 19, 76, 76, 85, 11, 128, 76, 85, 100, 33]
+   
+   Decrypting message...
+   Decrypted Message: Hello RSA!
+   
+   RSA example completed!
